@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Bryce's Journal Of Thoughts]]></title>
+  <link href="http://brycep.github.io/atom.xml" rel="self"/>
+  <link href="http://brycep.github.io/"/>
+  <updated>2014-11-23T08:44:23-08:00</updated>
+  <id>http://brycep.github.io/</id>
+  <author>
+    <name><![CDATA[Bryce]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Starting a New Blog]]></title>
+    <link href="http://brycep.github.io/blog/2014/11/22/new-blog/"/>
+    <updated>2014-11-22T10:05:00-08:00</updated>
+    <id>http://brycep.github.io/blog/2014/11/22/new-blog</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been a while since I&rsquo;ve had the ability to do much exploration into new technologies outside of work. But occasionally I do enjoy tinkering around with ideas and putting them out there, so I decided an easy way of doing this might be to start a new blog.</p>
+
+<p>There are a lot of great, free blogs out there, but I chose <a href="http://octopress.org">Octopress</a> because of its simplicity.  Octopress generates static HTML pages using a handful of Ruby scripts.  There&rsquo;s no database, no server setup, just plane old HTML.  It can be deployed anywhere, and it should still provide a good platform for JavaScript or code examples.</p>
+
+<p>Github Pages provide free hosting for static pages.  Deploying a change to the site is as easy as pushing my changes to Github.  To top it off, I can blog inside a terminal window using my favorite text editor (vim).</p>
+
+<p>All you need to get going is a free Github account.  Just create a repository named [username].github.io, and follow <a href="https://pages.github.com">these</a> instructions.</p>
+
+<p>Since Octopress is another project on Github, I forked the code to my own account so that I can clone it to whatever computer I wanted, then cloned it to my laptop.  Configuration is pretty easy and well documented in the <a href="http://octopress.org/docs/configuring/">Octopress Documentation</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
