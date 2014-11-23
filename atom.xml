@@ -4,7 +4,7 @@
   <title><![CDATA[Bryce's Journal Of Thoughts]]></title>
   <link href="http://brycep.github.io/atom.xml" rel="self"/>
   <link href="http://brycep.github.io/"/>
-  <updated>2014-11-23T08:44:23-08:00</updated>
+  <updated>2014-11-23T09:13:17-08:00</updated>
   <id>http://brycep.github.io/</id>
   <author>
     <name><![CDATA[Bryce]]></name>
@@ -26,7 +26,7 @@
 
 <p>All you need to get going is a free Github account.  Just create a repository named [username].github.io, and follow <a href="https://pages.github.com">these</a> instructions.</p>
 
-<p>Since Octopress is another project on Github, I forked the code to my own account so that I can clone it to whatever computer I wanted, then cloned it to my laptop.  Configuration is pretty easy and well documented in the <a href="http://octopress.org/docs/configuring/">Octopress Documentation</a>.</p>
+<p>Since Octopress is another project on Github, I forked the code to my own account so that I can clone it to whatever computer I wanted, then cloned it to my laptop.  Configuration is pretty easy and well documented in the <a href="http://octopress.org/docs/configuring/">Octopress Documentation</a>.  For now all my blog source will be up on Github here: <a href="https://github.com/brycep/octopress/tree/myblog">https://github.com/brycep/octopress/tree/myblog</a></p>
 ]]></content>
   </entry>
   
