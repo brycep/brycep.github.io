@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Starting a new blog"
+date: 2014-11-22 10:05:00 -0800
+comments: true
+categories: 
+---
+It's been a while since I've had the ability to do much exploration into new technologies outside of work. But occasionally I do enjoy tinkering around with ideas and putting them out there, so I decided an easy way of doing this might be to start a new blog.
+
+There are a lot of great, free blogs out there, but I chose [Octopress](http://octopress.org) because of its simplicity.  Octopress generates static HTML pages using a handful of Ruby scripts.  There's no database, no server setup, just plane old HTML.  It can be deployed anywhere, and it should still provide a good platform for JavaScript or code examples. 
+
+Github Pages provide free hosting for static pages.  Deploying a change to the site is as easy as pushing my changes to Github.  To top it off, I can blog inside a terminal window using my favorite text editor (vim).
+
+All you need to get going is a free Github account.  Just create a repository named [username].github.io, and follow [these](https://pages.github.com) instructions.  
+
+Since Octopress is another project on Github, I forked the code to my own account so that I can clone it to whatever computer I wanted, then cloned it to my laptop.  Configuration is pretty easy and well documented in the [Octopress Documentation](http://octopress.org/docs/configuring/).  For now all my blog source will be up on Github here: https://github.com/brycep/octopress/tree/myblog
